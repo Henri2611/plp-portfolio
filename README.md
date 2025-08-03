@@ -10,18 +10,16 @@ Welcome to my personal portfolio project, created for the **July 2025 PLP Academ
 
 ## 📁 Folder Structure
 
+
 PLP-Portfolio/
-├── files/ # contains cv
-│ ├── Henri ouma cv
+├── index.html # Main HTML file
+├── style.css # Custom CSS styling
 ├── images/ # Screenshots for each project
 │ ├── Todo.png
 │ ├── weather.png
 │ ├── pomodoro.png
 │ └── quote.png
-├── index.html # Main HTML file
-├── readme.md # Main README file
-├── style.css # Custom CSS styling
-
+├── Henri_Ouma_CV.pdf # Downloadable CV
 
 ---
 
