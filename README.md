@@ -56,7 +56,8 @@ PLP-Portfolio/
 📄 License
 This project is licensed under the MIT License — feel free to use, modify, and share with attribution.
 
-🙋🏽‍♂️ About Me
+🙋🏽‍♂️ About Me<br>
+
 Henri Ouma
 
 I’m a passionate front-end learner with a focus on clean design and usability. I built this portfolio to demonstrate my growth during the PLP Hackathon and beyond.
