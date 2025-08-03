@@ -10,9 +10,9 @@ Welcome to my personal portfolio project, created for the **July 2025 PLP Academ
 
 ## 📁 Folder Structure
 PLP-Portfolio/
-├── files/                  # Contains CV
+├── files/                  # Contains CV<br>
 │   └── Henri ouma cv.pdf
-├── images/                 # Screenshots for each project
+├── images/                 # Screenshots for each project<br>
 │   ├── Todo.png
 │   ├── weather.png
 │   ├── pomodoro.png
