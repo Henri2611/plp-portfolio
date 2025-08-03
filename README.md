@@ -49,15 +49,16 @@ PLP-Portfolio/
    ```bash
    git clone https://github.com/Henri2611/plp-portfolio.git
 
-2.Open index.html in any browser
+2. Open index.html in any browser
 
-To host online, enable GitHub Pages in the repository settings
+3. To host online, enable GitHub Pages in the repository settings
 
 📄 License
 This project is licensed under the MIT License — feel free to use, modify, and share with attribution.
 
 🙋🏽‍♂️ About Me
 Henri Ouma
+
 I’m a passionate front-end learner with a focus on clean design and usability. I built this portfolio to demonstrate my growth during the PLP Hackathon and beyond.
 
 
