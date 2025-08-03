@@ -9,17 +9,18 @@ Welcome to my personal portfolio project, created for the **July 2025 PLP Academ
 🚀 View the live site here: [https://plp-portfolio-liart.vercel.app/]
 
 ## 📁 Folder Structure
-PLP-Portfolio/
-├── files/                  # Contains CV<br>
-│   └── Henri ouma cv.pdf
-├── images/                 # Screenshots for each project<br>
-│   ├── Todo.png
-│   ├── weather.png
-│   ├── pomodoro.png
-│   └── quote.png
-├── index.html              # Main HTML file
-├── README.md               # Project README
-├── style.css               # Custom CSS styling
+PLP-Portfolio/<br>
+├── files/ &nbsp;&nbsp;&nbsp;&nbsp;# contains cv<br>
+│&nbsp;&nbsp;&nbsp;&nbsp;└── Henri ouma cv.pdf<br>
+├── images/ &nbsp;&nbsp;&nbsp;&nbsp;# Screenshots for each project<br>
+│&nbsp;&nbsp;&nbsp;&nbsp;├── Todo.png<br>
+│&nbsp;&nbsp;&nbsp;&nbsp;├── weather.png<br>
+│&nbsp;&nbsp;&nbsp;&nbsp;├── pomodoro.png<br>
+│&nbsp;&nbsp;&nbsp;&nbsp;└── quote.png<br>
+├── index.html &nbsp;&nbsp;&nbsp;&nbsp;# Main HTML file<br>
+├── README.md &nbsp;&nbsp;&nbsp;&nbsp;# Project README<br>
+├── style.css &nbsp;&nbsp;&nbsp;&nbsp;# Custom CSS styling<br>
+
 
 
 
